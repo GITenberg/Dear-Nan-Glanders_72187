@@ -11,12 +11,17 @@ contributor:
     deathdate: 1985
     gutenberg_agent_id: '26735'
     url: http://www.gutenberg.org/2009/agents/26735
+covers:
+- cover_type: archival
+  image_path: 72187-h/images/cover.jpg
 creator:
   author:
     agent_name: McGavin, Beta
     gutenberg_agent_id: '56582'
     url: http://www.gutenberg.org/2009/agents/56582
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72187#Dear-Nan-Glanders
 gutenberg_issued: '2023-11-21'
 identifiers:
   gutenberg: '72187'
